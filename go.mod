@@ -18,7 +18,7 @@ require (
 	github.com/frankban/quicktest v1.6.0 // indirect
 	github.com/getkin/kin-openapi v0.2.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-ini/ini v1.41.0
+	github.com/go-ini/ini v1.62.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
 	github.com/golang/protobuf v1.3.2
