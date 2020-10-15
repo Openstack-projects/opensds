@@ -21,7 +21,7 @@ require (
 	github.com/go-ini/ini v1.41.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/groupcache v0.0.0-20191027212112-611e8accdfc9 // indirect
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.4.3
 	github.com/google/btree v1.0.0 // indirect
 	github.com/gophercloud/gophercloud v0.0.0-20190528082055-3ad89c4ea008
 	github.com/gorilla/websocket v1.4.1 // indirect
