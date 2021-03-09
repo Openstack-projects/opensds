@@ -16,7 +16,7 @@ require (
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/frankban/quicktest v1.6.0 // indirect
-	github.com/getkin/kin-openapi v0.2.0
+	github.com/getkin/kin-openapi v0.49.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-ini/ini v1.41.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
@@ -43,7 +43,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/soheilhy/cmux v0.1.4 // indirect
 	github.com/spf13/cobra v0.0.3
-	github.com/stretchr/testify v1.4.0
+	github.com/stretchr/testify v1.5.1
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
@@ -54,6 +54,6 @@ require (
 	google.golang.org/appengine v1.4.0 // indirect
 	google.golang.org/grpc v1.24.0
 	gopkg.in/ini.v1 v1.50.0 // indirect
-	gopkg.in/yaml.v2 v2.2.4
+	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.17.0 // indirect
 )
